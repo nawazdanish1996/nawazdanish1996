@@ -5,7 +5,7 @@ I have completed my bachelor’s degree in History Hons, majoring in Web Develop
                     
 Through my theoretical and practical experiences, I have learned to Web Development and application creatively. Always, I look for sophistication in my work. I have achieved distinguished marks for my final year project that I presented to my supervisor. Additionally, I obtained many certificates of appreciation for designing inventive software for commercial sectors.
 
-Blogging website: https://nawazdanish.blogspot.com/
+Portfolio Website: https://nawazd.000webhostapp.com/
 
 
  E-Mail                    nawazdanish1996@gmail.com
