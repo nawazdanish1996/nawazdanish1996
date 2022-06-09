@@ -20,8 +20,6 @@ LinkedIn                 https://www.linkedin.com/in/nawazdanish
 
 GitHub                    https://github.com/nawazdanish1996
 
-LeetCode                https://leetcode.com/nawazdanish1996/
-
 Instagram                https://www.instagram.com/hi_webdeveloper/
 
 
