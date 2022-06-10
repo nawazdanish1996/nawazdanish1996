@@ -15,7 +15,7 @@ Portfolio Website: https://nawazd.000webhostapp.com/
 
 
 
-                                Social Media:
+                                Social Links:
 
 LinkedIn                 https://www.linkedin.com/in/nawazdanish
 
