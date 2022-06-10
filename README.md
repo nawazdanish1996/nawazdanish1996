@@ -1,6 +1,6 @@
 ![MasterHead](https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif)
 
-<h1 align="center">Hi 👋, I'm Nawaz DAnish</h1>
+<h1 align="center">Hi 👋, I'm Nawaz Danish</h1>
 <h3 align="center">A passionate Frontend Web Developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -31,4 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nawazdanish1996&show_icons=true&locale=en" alt="nawazdanish1996" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nawazdanish1996&" alt="nawazdanish1996" /></p>
-
