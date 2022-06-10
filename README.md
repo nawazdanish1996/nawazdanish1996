@@ -1,7 +1,7 @@
 ![MasterHead](https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif)
 
 <h1 align="center">Hi 👋, I'm Nawaz Danish</h1>
-<h3 align="center">A passionate Frontend Web Developer from India</h3>
+<h3 align="center">A passionate Front-End Web Developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/hi_webdeveloper" target="blank"><img src="https://img.shields.io/twitter/follow/hi_webdeveloper?logo=twitter&style=for-the-badge" alt="hi_webdeveloper" /></a> </p>
 
-- 💬 Ask me about **MERN, Front-End**
+- 💬 Ask me about **MERN Developer, Front-End Developer, Full Stack Developer**
 
 - 📫 How to reach me **nawazdanish1996@gmail.com**
 
