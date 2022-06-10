@@ -1,36 +1,34 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
-Hello, My name is Nawaz Danish and I am resident of West Bengal, India.
-                    
-I have completed my bachelor’s degree in History Hons, majoring in Web Development at Newton School. My goal is to work as a Full Stack Web Developer at any renowned company. However, my hobby of participating in cultural events and participating in games like Volleyball and Football.
-                    
-Through my theoretical and practical experiences, I have learned to Web Development and application creatively. Always, I look for sophistication in my work. I have achieved distinguished marks for my final year project that I presented to my supervisor. Additionally, I obtained many certificates of appreciation for designing inventive software for commercial sectors.
+<h1 align="center">Hi 👋, I'm Nawaz DAnish</h1>
+<h3 align="center">A passionate Frontend Web Developer from India</h3>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-environment url: https://nawazdanish1996.github.io/nawazdanish1996/
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nawazdanish1996&label=Profile%20views&color=0e75b6&style=flat" alt="nawazdanish1996" /> </p>
 
-Portfolio Website: https://nawazd.000webhostapp.com/
+<p align="left"> <a href="https://twitter.com/hi_webdeveloper" target="blank"><img src="https://img.shields.io/twitter/follow/hi_webdeveloper?logo=twitter&style=for-the-badge" alt="hi_webdeveloper" /></a> </p>
 
-E-Mail                    nawazdanish1996@gmail.com
+- 💬 Ask me about **MERN, Front-End**
 
+- 📫 How to reach me **nawazdanish1996@gmail.com**
 
+- ⚡ Fun fact **I think I am funny.**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/hi_webdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hi_webdeveloper" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nawazdanish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nawazdanish" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/ndanish1996/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ndanish1996/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/hi_webdeveloper/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hi_webdeveloper/" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
-                                Social Links:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nawazdanish1996&show_icons=true&locale=en&layout=compact" alt="nawazdanish1996" /></p>
 
-LinkedIn                 https://www.linkedin.com/in/nawazdanish
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nawazdanish1996&show_icons=true&locale=en" alt="nawazdanish1996" /></p>
 
-GitHub                    https://github.com/nawazdanish1996
-
-Instagram                https://www.instagram.com/hi_webdeveloper/
-
-
-
-
-
-
-
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nawazdanish1996&" alt="nawazdanish1996" /></p>
 
