@@ -1,5 +1,5 @@
 
-Hello, My name is Nawaz Danish, and I am resident of West Bengal, India.
+Hello, My name is Nawaz Danish and I am resident of West Bengal, India.
                     
 I have completed my bachelor’s degree in History Hons, majoring in Web Development at Newton School. My goal is to work as a Full Stack Web Developer at any renowned company. However, my hobby of participating in cultural events and participating in games like Volleyball and Football.
                     
