@@ -9,7 +9,8 @@ Through my theoretical and practical experiences, I have learned to Web Developm
 environment url: https://nawazdanish1996.github.io/nawazdanish1996/
 
 Portfolio Website: https://nawazd.000webhostapp.com/
- E-Mail                    nawazdanish1996@gmail.com
+
+E-Mail                    nawazdanish1996@gmail.com
 
 
 
