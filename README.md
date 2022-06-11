@@ -1,4 +1,4 @@
-![MasterHead](https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif)
+<span style="text-align: center;">![MasterHead](https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif)</span>
 
 <h1 align="center">Hi 👋, I'm Nawaz Danish</h1>
 <h3 align="center">A passionate Front-End Web Developer from India</h3>
