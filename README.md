@@ -1,4 +1,3 @@
-/*<span style="margin: 0 auto;">![MasterHead](https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif)</span>*/
 <img align="center" alt="masterHead" width="100%" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif">
 
 <h1 align="center">Hi 👋, I'm Nawaz Danish</h1>
