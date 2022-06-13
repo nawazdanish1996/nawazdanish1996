@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/hi_webdeveloper" target="blank"><img src="https://img.shields.io/twitter/follow/hi_webdeveloper?logo=twitter&style=for-the-badge" alt="hi_webdeveloper" /></a> </p>
 
-- 💬 Ask me about **MERN Stack Web Developer | Front-End Web Developer | Full Stack Developer**
+- 💬 Ask me about **MERN Stack Web Developer | Front-End Web Developer | Full Stack Web Developer**
 
 - 📫 How to reach me **nawazdanish1996@gmail.com**
 
