@@ -1,3 +1,5 @@
+<img align="center" src="https://miro.medium.com/max/750/0*pfSePj1QRklvARDJ">
+
 <h1 align="center">Hi 👋, I'm Nawaz Danish</h1>
 <h3 align="center">A passionate MERN Stack Web Developer | Front-End Web Developer from West Bengal, India</h3>
 
