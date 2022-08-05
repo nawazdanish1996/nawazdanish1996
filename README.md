@@ -1,9 +1,10 @@
 <p align="center"> 
-<img width="60%" src="https://miro.medium.com/max/750/0*pfSePj1QRklvARDJ">
+<!-- <img width="60%" src="https://miro.medium.com/max/750/0*pfSePj1QRklvARDJ"> -->
+<img src="https://readme-typing-svg.herokuapp.com?size=30&color=F71A58&lines=Web+Developer...;Hey!+It's+Nawaz+Danish!" alt="Typing SVG" /
 </p>
 
-<h1 align="center">Hi 👋, I'm Nawaz Danish</h1>
-<h3 align="center">A passionate MERN Stack Web Developer | Full Stack Web Developer from West Bengal, India</h3>
+<!-- <h1 align="center">Hi 👋, I'm Nawaz Danish</h1> -->
+<h3 align="center">A passionate MERN Stack Web Developer from West Bengal, India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -11,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/hi_webdeveloper" target="blank"><img src="https://img.shields.io/twitter/follow/hi_webdeveloper?logo=twitter&style=for-the-badge" alt="hi_webdeveloper" /></a> </p>
 
-- 💬 Ask me about **MERN Stack Web Developer | Front-End Web Developer | Full Stack Web Developer**
+- 💬 Ask me about **HTML, CSS, BOOTSTRAP, JAVASCRIPT, REACT.JS**
 
 - 📫 How to reach me **nawazdanish1996@gmail.com**
 
