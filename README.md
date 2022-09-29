@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/nawazdanish_Dev" target="blank"><img src="https://img.shields.io/twitter/follow/hi_webdeveloper?logo=twitter&style=for-the-badge" alt="hi_webdeveloper" /></a> </p>
 
-- 💬 Ask me about **HTML, CSS, BOOTSTRAP, JAVASCRIPT, REACT.JS**
+- 💬 Ask me about **HTML, CSS, BOOTSTRAP, JAVASCRIPT, REACT.JS, NODE.JS**
 
 - 📫 How to reach me **nawazdanish1996@gmail.com**
 
