@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nawazdanish1996&label=Profile%20views&color=0e75b6&style=flat" alt="nawazdanish1996" /> </p>
 
-<p align="left"> <a href="https://twitter.com/nawazdanish_Dev" target="blank"><img src="https://img.shields.io/twitter/follow/nawazdanish_Dev?logo=twitter&style=for-the-badge" alt="Nawaz Danish" /></a> </p>
+<p align="left"> <a href="https://twitter.com/nawazdanish_Dev" target="blank"><img src="https://img.shields.io/twitter/follow/nawazdanish1996?logo=twitter&style=for-the-badge" alt="Nawaz Danish" /></a> </p>
 
 - 💬 Ask me about **HTML, CSS, BOOTSTRAP, JAVASCRIPT, REACT.JS, NODE.JS**
 
