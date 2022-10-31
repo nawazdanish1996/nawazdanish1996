@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **HTML, CSS, BOOTSTRAP, JAVASCRIPT, REACT.JS, NODE.JS**
 
-- 📫 How to reach me **nawazdanish1996@gmail.com**
+- 📫 How to reach me **contact.to.nd@gmail.com**
 
 - ⚡ Fun fact **I think I am funny.**
 
