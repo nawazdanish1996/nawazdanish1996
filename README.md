@@ -7,15 +7,13 @@
 <h1 align="center">Hi 👋, I'm Nawaz Danish</h1>
 <h3 align="center">A passionate MERN Stack Web Development from India</h3>
 
-- 🌱 I’m currently learning **Node, Express, MongoDB, and Typescript**
+- 🌱 I’m currently learning **Express, MongoDB, and Typescript**
 
 - 👨‍💻 All of my projects are available at [https://nawazdanish1996.github.io/MyPortfolio/](https://nawazdanish1996.github.io/MyPortfolio/)
 
 - 💬 Ask me about  ** HTML, CSS, JS, Bootstrap, React, Redux, Material UI, Node **
 
 - 📫 How to reach me **contact.to.nd@gmail.com**
-
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/developerhost) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nawazdanish) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nawazdanish1996) 
