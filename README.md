@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Nawaz Danish</h1>
 <h3 align="center">A passionate MERN Stack Web Development from India</h3>
 
-- 🌱 I’m currently learning **Express, MongoDB, and Typescript**
+- 🌱 I’m currently workingn on **Node, Express, MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://nawazdanish1996.github.io/MyPortfolio/](https://nawazdanish1996.github.io/MyPortfolio/)
 
