@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nawazdanish1996.github.io/MyPortfolio/](https://nawazdanish1996.github.io/MyPortfolio/)
 
-- 💬 Ask me about  ** HTML, CSS, JS, Bootstrap, React, Redux, Material UI, Node **
+- 💬 Ask me about  ** HTML, CSS, JS, Bootstrap, React, Redux, Material UI, Node, Express **
 
 - 📫 How to reach me **contact.to.nd@gmail.com**
 
