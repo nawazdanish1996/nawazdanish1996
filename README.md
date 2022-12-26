@@ -1,17 +1,17 @@
 <p align="center"> 
 <!-- <img width="60%" src="https://miro.medium.com/max/750/0*pfSePj1QRklvARDJ"> -->
-<img src="https://readme-typing-svg.herokuapp.com?size=30&color=F71A58&lines=Web+Developer...;Hey!+It's+Nawaz+Danish!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?size=30&color=F71A58&lines=MERN-Stack+Developer...;Hey!+It's+Nawaz+Danish!" alt="Typing SVG" />
  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </p>
 
 <h1 align="center">Hi 👋, I'm Nawaz Danish</h1>
 <h3 align="center">A passionate MERN Stack Web Development from India</h3>
 
-- 🌱 I’m currently workingn on **Node, Express, MongoDB**
+- 🌱 I’m currently workingn on **MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://nawazdanish1996.github.io/MyPortfolio/](https://nawazdanish1996.github.io/MyPortfolio/)
 
-- 💬 Ask me about  ** HTML, CSS, JS, Bootstrap, React, Redux, Material UI, Node, Express **
+- 💬 Ask me about  ** HTML, CSS, JS, Bootstrap, React, Redux, Material UI, Node, Express, MongoDB **
 
 - 📫 How to reach me **contact.to.nd@gmail.com**
 
