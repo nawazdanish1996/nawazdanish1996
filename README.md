@@ -11,7 +11,15 @@
 
 - 👨‍💻 All of my projects are available at [https://nawazdanish1996.github.io/MyPortfolio/](https://nawazdanish1996.github.io/MyPortfolio/)
 
-- 💬 Ask me about  ** HTML, CSS, JS, Bootstrap, React, Redux, Material UI, Node, Express, MongoDB **
+- 💬 Ask me about
+
+       Client: React, Bootstrap, Material UI, HTML, CSS, JS
+
+       Server: Node, Express
+       
+       Database: MongoDB
+
+       API Testing: Postman
 
 - 📫 How to reach me **contact.to.nd@gmail.com**
 
