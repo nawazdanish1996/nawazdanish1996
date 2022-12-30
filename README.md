@@ -20,6 +20,8 @@
        Database: MongoDB
 
        API Testing: Postman
+       
+       Version Control: Git, GitHub
 
 - 📫 How to reach me **contact.to.nd@gmail.com**
 
