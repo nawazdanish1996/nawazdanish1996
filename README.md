@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Nawaz Danish</h1>
 <h3 align="center">A passionate MERN Stack Web Development from India</h3>
 
-- 🌱 I’m currently workingn on **MongoDB, Webpack**
+- 🌱 I’m currently working on **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://nawazdanish1996.github.io/MyPortfolio/](https://nawazdanish1996.github.io/MyPortfolio/)
 
