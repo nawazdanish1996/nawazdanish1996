@@ -1,6 +1,5 @@
 <p align="center"> 
 <!-- <img width="60%" src="https://miro.medium.com/max/750/0*pfSePj1QRklvARDJ"> -->
-<img src="https://readme-typing-svg.herokuapp.com?size=30&color=F71A58&lines=MERN-Stack+Developer...;Hey!+It's+Nawaz+Danish!" alt="Typing SVG" />
  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </p>
 
