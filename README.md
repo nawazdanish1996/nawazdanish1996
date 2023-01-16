@@ -8,7 +8,6 @@
 
 - 🌱 I’m currently working on **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://nawazdanish1996.github.io/MyPortfolio/](https://nawazdanish1996.github.io/MyPortfolio/)
 
 - 💬 Ask me about
 
@@ -21,6 +20,7 @@
        API Testing: Postman
        
        Version Control: Git, GitHub
+       Recently Learning: React-Native
 
 - 📫 How to reach me **contact.to.nd@gmail.com**
 
