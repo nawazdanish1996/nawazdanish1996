@@ -12,7 +12,7 @@
 
 - 💬 Ask me about
 
-       Client: React, Bootstrap, Material UI, HTML, CSS, JS
+       Client: React, Redux, Bootstrap, Material UI, HTML, CSS, JS
 
        Server: Node, Express
        
