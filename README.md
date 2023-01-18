@@ -21,8 +21,6 @@
        
        Version Control: Git, GitHub
 
-       Recently Learning: React-Native
-
 - 📫 How to reach me **contact.to.nd@gmail.com**
 
 ## 🌐 Socials:
