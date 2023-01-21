@@ -21,7 +21,6 @@
        
        Version Control: Git, GitHub
        
-       Currently Learning: Next.js
 
 - 📫 How to reach me **contact.to.nd@gmail.com**
 
