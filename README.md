@@ -4,14 +4,14 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Nawaz Danish</h1>
-<h3 align="center">A passionate MERN Stack Web Development from India</h3>
+<h3 align="center">A passionate React Developer || Frontend Web Developer</h3>
 
-- 🌱 I’m currently working on **MERN Stack**
+- 🌱 I’m currently working on **React, Redux-Toolkit**
 
 
 - 💬 Ask me about
 
-       Client: React, Redux, Bootstrap, Material UI, HTML, CSS, JS
+       Client: React, Redux-Toolkit, Bootstrap, HTML, CSS, JS
 
        Server: Node, Express
        
